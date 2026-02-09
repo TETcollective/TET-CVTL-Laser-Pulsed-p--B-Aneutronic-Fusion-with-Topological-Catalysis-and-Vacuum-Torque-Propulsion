@@ -49,7 +49,7 @@ Per licenze commerciali o derivate contatta l'autore.
   author = {Soliman, Simon (PhysSoliman)},
   title = {TET--CVTL: Laser-Pulsed p-¹¹B Aneutronic Fusion with Topological Catalysis and Vacuum Torque Propulsion},
   year = {2026},
-  doi = {10.5281/zenodo.XXXXXXX},  % aggiorna con DOI reale dopo upload Zenodo
+  doi = {[10.5281/zenodo.18566367](https://doi.org/10.5281/zenodo.18566367)},  
   url = {https://github.com/TETcollective/tet-cvtl-laser-pulsed-p11b-vacuum-torque},
   note = {TET Collective preprint – CC BY-NC-ND 4.0}
 }

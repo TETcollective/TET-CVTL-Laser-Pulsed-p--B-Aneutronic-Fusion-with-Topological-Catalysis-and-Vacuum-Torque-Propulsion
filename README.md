@@ -1,0 +1,2 @@
+# TET-CVTL-Laser-Pulsed-p--B-Aneutronic-Fusion-with-Topological-Catalysis-and-Vacuum-Torque-Propulsion
+Framework TET–CVTL per fusione aneutronica p-¹¹B catalizzata topologicamente (braiding trefoil eterno) e propulsione vacuum torque perpetua (Isp → ∞). Include setup ibrido laser-pulsed pitcher-catcher, simulazioni QuTiP Gold Curve, MZMs braiding e implicazioni per PBCT e multiplanetarietà. Preprint indipendente – CC BY-NC-ND 4.0.

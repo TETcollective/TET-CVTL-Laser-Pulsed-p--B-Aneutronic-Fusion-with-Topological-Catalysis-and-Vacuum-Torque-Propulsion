@@ -6,6 +6,8 @@ TET Collective
 https://tetcollective.org
 ORCID: 0009-0002-3533-3772 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18566367.svg)](https://doi.org/10.5281/zenodo.18566367)
+
 
 
 # TET–CVTL: Laser-Pulsed p-¹¹B Aneutronic Fusion with Topological Catalysis and Vacuum Torque Propulsion
